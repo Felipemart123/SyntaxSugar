@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1A6786CA-18EC-49DB-895E-37580BCFAD7A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SyntaxSugar/Program.cs">
+    <Files>
+      <File FileName="SyntaxSugar/Program.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SyntaxSugar" expanded="True">
+            <Node name="SyntaxSugar" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SyntaxSugar PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
